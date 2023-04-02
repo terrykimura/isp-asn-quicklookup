@@ -2,7 +2,7 @@
 
 誰得か分からないけど、仕事柄「プロバイダー」!=「AS 番号」ってことに気付いたので早見表を作ってみました。
 
-Dunno if this will be of use to anybody, but I've noticed that when an end user mentions their ISP it doesn't really help narrow down whence their HTTP requests might have originated.  So, an ISP <> Autonomous System Number dictionary!
+Dunno if this will be of use to anybody, but I've noticed that when an end user mentions their ISP it doesn't really help narrow down from whence their HTTP requests might have originated.  So, an ISP <> Autonomous System Number dictionary!
 
 ## 情報を募集しています
 ご自分の AS 番号と契約されているプロバイダーを下の表に追加する形でプルリクエストをすればいいんじゃないかな？
@@ -45,3 +45,4 @@ How to identify your public IP address and ASN
 | [タイガーズネット](https://www.tigers-net.com/) | AS2519 ARTERIA Networks Corporation | 133.32.181.93 | |
 | SoftBank BB | AS17676 Softbank BB Corp. | 126.142.160.144 | |
 | NTT ドコモ | AS9605 NTT DOCOMO, INC. | 110.163.217.76<br>240a:6b:e40:bc11:6094:c75d:ea37:440b | |
+| Starlink | AS14593 Space Exploration Technologies Corporation | | |
