@@ -50,3 +50,4 @@ How to identify your public IP address and ASN
 | J:COM | AS4721 Jupiter Telecommunications Co., Ltd. | 203.89.39.115 | 2020年の記録 |
 | JAL gogo 機内 Wi-Fi 会津若松上空 | AS4713 NTT Communications Corporation | 61.208.66.176 | 2021年11月20日記録 |
 | JR 東北新幹線 はやぶさ車内 Wi-Fi | AS4713 NTT Communications Corporation | 210.162.55.197 | 2021年11月3日記録 |
+| povo 2.0 | AS2516 KDDI CORPORATION | 106.146.8.181 | |
