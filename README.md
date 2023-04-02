@@ -52,3 +52,4 @@ How to identify your public IP address and ASN
 | JAL 機内 Wi-Fi | AS64294 Panasonic Avionics Corporation | 205.220.129.228 | 2022年2月記録 |
 | JR 東北新幹線 はやぶさ車内 Wi-Fi | AS4713 NTT Communications Corporation | 210.162.55.197 | 2021年11月記録 |
 | povo 2.0 | AS2516 KDDI CORPORATION | 106.146.8.181 | |
+| 新千歳空港の Wi-Fi | AS4713 NTT Communications Corporation | 153.156.2.122 | |
