@@ -40,7 +40,8 @@ How to identify your public IP address and ASN
 | WAKWAK | AS9595 NTT-ME Corporation | 222.224.194.212 | AS4713 NTT Communications Corporation（通称 OCN）とは別！ |
 | 楽天ひかり | AS2519 ARTERIA Networks Corporation | 2001:f75:2320:700:cd32:3552:2055:537a | 名称に「Rakuten」がある ASN ではない。「クロスパス」がなんとかかんとか |
 | 楽天モバイル（MNO） | AS138384 Rakuten Mobile Network, Inc | 133.106.35.20<br>240b:c010:423:e8c7:c7e3:e604:ad42:9299 | |
-| 楽天モバイル（MVNO） | AS138384 Rakuten Mobile Network, Inc. | 133.106.94.244 | |
+| 楽天モバイル（MVNO） | AS138384 Rakuten Mobile Network, Inc. | 133.106.94.244 | 2022年の記録。逆引きホスト名に「mvno」があるかで MNO・MVNO を見分ける？ |
+| 楽天モバイル（MVNO） | AS4704 Rakuten Communications Corp. | 110.165.211.137 | 2018年の記録 |
 | UCOM | AS17506 ARTERIA Networks Corporation | 221.248.69.179 | |
 | [タイガーズネット](https://www.tigers-net.com/) | AS2519 ARTERIA Networks Corporation | 133.32.181.93 | |
 | SoftBank BB | AS17676 Softbank BB Corp. | 126.142.160.144 | |
