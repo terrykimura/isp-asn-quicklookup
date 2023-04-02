@@ -53,3 +53,4 @@ How to identify your public IP address and ASN
 | JR 東北新幹線 はやぶさ車内 Wi-Fi | AS4713 NTT Communications Corporation | 210.162.55.197 | 2021年11月記録 |
 | povo 2.0 | AS2516 KDDI CORPORATION | 106.146.8.181 | |
 | 新千歳空港の Wi-Fi | AS4713 NTT Communications Corporation | 153.156.2.122 | |
+| iCloud Private Relay「おおよその位置情報を維持」 | AS13335 Cloudflare, Inc. | 104.28.101.206 | [iCloud Private Relay で使用される IP レンジ](https://mask-api.icloud.com/egress-ip-ranges.csv) |
