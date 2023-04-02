@@ -2,7 +2,7 @@
 
 誰得か分からないけど、仕事柄「プロバイダー」!=「AS 番号」ってことに気付いたので早見表を作ってみました。
 
-Dunno if this will be of use to anybody, but I've noticed that when an end user mentions their ISP it doesn't really help narrow down where their HTTP requests might have originated.  So, an ISP <> Autonomous System Number dictionary!
+Dunno if this will be of use to anybody, but I've noticed that when an end user mentions their ISP it doesn't really help narrow down whence their HTTP requests might have originated.  So, an ISP <> Autonomous System Number dictionary!
 
 ## 情報を募集しています
 ご自分の AS 番号と契約されているプロバイダーを下の表に追加する形でプルリクエストをすればいいんじゃないかな？
@@ -32,7 +32,7 @@ How to identify your public IP address and ASN
 
 
 ## 表
-| ISP | ASN | IP アドレス例 | Notes |
+| ISP | ASN | Sample IP 例 | Notes |
 | --- | --- | --- | --- |
 | [enひかり](https://enhikari.jp/) on NTT 光コラボ | AS2516 KDDI | 14.9.141.160 | 光回線を使う NTT 光コラボなのに KDDI |
 | Nuro 光 | AS2527 Sony Network Communications Inc. | 218.41.142.141 | |
