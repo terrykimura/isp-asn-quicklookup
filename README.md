@@ -47,3 +47,4 @@ How to identify your public IP address and ASN
 | SoftBank BB | AS17676 Softbank BB Corp. | 126.142.160.144 | |
 | NTT ドコモ | AS9605 NTT DOCOMO, INC. | 110.163.217.76<br>240a:6b:e40:bc11:6094:c75d:ea37:440b | |
 | Starlink | AS14593 Space Exploration Technologies Corporation | | |
+| J:COM | AS4721 Jupiter Telecommunications Co., Ltd. | 203.89.39.115 | 2020年の記録 |
