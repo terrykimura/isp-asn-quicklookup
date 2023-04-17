@@ -2,6 +2,10 @@
 
 誰得か分からないけど、仕事柄「プロバイダー」!=「AS 番号」ってことに気付いたので早見表を作ってみました。
 
+例えば「楽天ひかりのユーザーが接続できない！」と言われてもサーバーログからどの ASN の公開 IP を調査すればいいのか分からないな、プロバイダーと AS 番号の早見表が出回ってたらいいのにな、と思う日々でした。
+
+そこで「自分がその早見表を作れば良いのだ！」と気付いた結果がこれです。
+
 Dunno if this will be of use to anybody, but I've noticed that when an end user mentions their ISP it doesn't really help narrow down from whence their HTTP requests might have originated.  So, an ISP <> Autonomous System Number dictionary!
 
 ## 情報を募集しています
@@ -13,7 +17,7 @@ Submissions welcome.  I guess submit a pull request with your additions to the f
 How to identify your public IP address and ASN
 
 - ブラウザにてこのページにアクセス（IPv4 IPv6 双方表示）：https://www.whatismyip.com/
-- curl などで ipinfo.io API を使用（同じく IPv4 のみ）：
+- curl などで ipinfo.io API を使用（IPv4 のみ）：
   ```
   $ curl ipinfo.io
   {
