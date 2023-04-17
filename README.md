@@ -6,6 +6,8 @@
 
 そこで「自分がその早見表を作れば良いのだ！」と気付いた結果がこれです。
 
+（ちなみに、楽天ひかりは AS2519 アルテリアで、名称に「楽天」がある ASN ではありませんでした。）
+
 Dunno if this will be of use to anybody, but I've noticed that when an end user mentions their ISP it doesn't really help narrow down from whence their HTTP requests might have originated.  So, an ISP <> Autonomous System Number dictionary!
 
 ## 情報を募集しています
