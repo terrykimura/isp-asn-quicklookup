@@ -51,6 +51,7 @@ How to identify your public IP address and ASN
 | UCOM | AS17506 ARTERIA Networks Corporation | 221.248.69.179 | |
 | [タイガーズネット](https://www.tigers-net.com/) | AS2519 ARTERIA Networks Corporation | 133.32.181.93 | |
 | SoftBank BB | AS17676 Softbank BB Corp. | 126.142.160.144 | |
+| LINEMO | AS17676 SoftBank BB Corp. | 126.211.46.133 | |
 | NTT ドコモ | AS9605 NTT DOCOMO, INC. | 110.163.217.76<br>240a:6b:e40:bc11:6094:c75d:ea37:440b | |
 | Starlink | AS14593 Space Exploration Technologies Corporation | | |
 | J:COM | AS4721 Jupiter Telecommunications Co., Ltd. | 203.89.39.115 | 2020年の記録 |
