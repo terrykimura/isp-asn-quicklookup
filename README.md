@@ -62,3 +62,4 @@ How to identify your public IP address and ASN
 | povo 2.0 | AS2516 KDDI CORPORATION | 106.128.103.50<br>2001:268:998e:2f38:b8ab:43c7:2921:995e | |
 | 新千歳空港の Wi-Fi | AS4713 NTT Communications Corporation | 153.156.2.122 | |
 | iCloud Private Relay「おおよその位置情報を維持」 | AS13335 Cloudflare, Inc. | 104.28.101.206 | [iCloud Private Relay で使用される IP レンジ](https://mask-api.icloud.com/egress-ip-ranges.csv) Cloudflare 以外 AS36183 Akamai なども |
+| IIJMio (MVNO) | AS2497 Internet Initiative Japan Inc. | 202.214.230.88<br>2001:240:240b:24e6:d99:d972:ec6:fbca | |
