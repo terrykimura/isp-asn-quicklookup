@@ -54,7 +54,7 @@ How to identify your public IP address and ASN
 | SoftBank BB | AS17676 Softbank BB Corp. | 126.142.160.144 | |
 | LINEMO | AS17676 SoftBank BB Corp. | 126.211.46.133 | |
 | NTT ドコモ | AS9605 NTT DOCOMO, INC. | 110.163.217.76<br>240a:6b:e40:bc11:6094:c75d:ea37:440b | |
-| Starlink | AS14593 Space Exploration Technologies Corporation | | |
+| Starlink | AS14593 Space Exploration Technologies Corporation | 145.224.124.88 | |
 | J:COM | AS4721 Jupiter Telecommunications Co., Ltd. | 203.89.39.115 | 2020年の記録 |
 | JAL gogo 機内 Wi-Fi 会津若松上空 | AS4713 NTT Communications Corporation | 61.208.66.176 | 2021年11月記録 |
 | JAL 機内 Wi-Fi | AS64294 Panasonic Avionics Corporation | 205.220.129.228 | 2022年2月記録 |
