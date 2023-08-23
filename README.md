@@ -18,7 +18,7 @@ Submissions welcome.  I guess submit a pull request with your additions to the f
 ## 公開 IP アドレスと ASN を調べる方法
 How to identify your public IP address and ASN
 
-- ブラウザにてこのページにアクセス（IPv4 IPv6 双方表示）：https://www.whatismyip.com/
+- ブラウザにて https://www.whatismyip.com/ にアクセス（IPv4 IPv6 双方表示）
 - curl などで ipinfo.io API を使用（IPv4 のみ）：
   ```
   $ curl ipinfo.io
