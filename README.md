@@ -42,6 +42,7 @@ How to identify your public IP address and ASN
 | --- | --- | --- | --- |
 | [enひかり](https://enhikari.jp/) on NTT 光コラボ | AS2516 KDDI | 14.9.141.160 | NTT の光回線を使う NTT 光コラボなのに KDDI |
 | ドコモ光 GMOとくとくBB | AS2516 KDDI | 106.73.5.64 | 「ドコモ」光なのに KDDI |
+| UQ Wimax + 5G | AS2516 KDDI | 106.155.1.25 | KDDI は UQ の親会社 |
 | Nuro 光 | AS2527 Sony Network Communications Inc. | 218.41.142.141 | |
 | Nuro Mobile (MVNO) | AS2527 Sony Network Communications Inc. | 118.241.250.73 | | 
 | WAKWAK | AS9595 NTT-ME Corporation | 222.224.194.212 | AS4713 NTT Communications Corporation（通称 OCN）とは別！ |
