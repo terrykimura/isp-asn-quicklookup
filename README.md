@@ -66,3 +66,4 @@ How to identify your public IP address and ASN
 | iCloud Private Relay「おおよその位置情報を維持」 | AS13335 Cloudflare, Inc. | 104.28.101.206 | [iCloud Private Relay で使用される IP レンジ](https://mask-api.icloud.com/egress-ip-ranges.csv) Cloudflare 以外 AS36183 Akamai なども |
 | IIJMio (MVNO) | AS2497 Internet Initiative Japan Inc. | 202.214.230.88<br>2001:240:240b:24e6:d99:d972:ec6:fbca | |
 | au one net | AS2516 KDDI | 106.133.121.218<br>2001:268:9a73:caa4:68d4:619a:b41f:9c2d | IPv4 ホスト名に「au-net.ne.jp」がある。 IPv6 にはない |
+| 日本通信 (MVNO) | AS55387 Japna Communication Inc. | 27.253.251.194 | 日本国内 MVNO 第一号 |
