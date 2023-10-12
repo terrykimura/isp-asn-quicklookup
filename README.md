@@ -67,4 +67,4 @@ How to identify your public IP address and ASN
 | IIJMio (MVNO) | AS2497 Internet Initiative Japan Inc. | 202.214.230.88<br>2001:240:240b:24e6:d99:d972:ec6:fbca | |
 | au one net | AS2516 KDDI | 106.133.121.218<br>2001:268:9a73:caa4:68d4:619a:b41f:9c2d | IPv4 ホスト名に「au-net.ne.jp」がある。 IPv6 にはない |
 | 日本通信 (MVNO) | AS55387 Japna Communication Inc. | 27.253.251.194 | 日本国内 MVNO 第一号 |
-| セントヘレナ島のエンドユーザー | AS210841 Sure South Atlantic Limited | 91.232.198.117 | [祝海底ケーブル開通（＆脱衛星インターネット接続）！](https://www.kentik.com/blog/ending-saint-helenas-exile-from-the-internet/) |
+| セントヘレナ島のクライアント IP | AS210841 Sure South Atlantic Limited | 91.232.198.117 | [祝海底ケーブル開通（＆脱衛星インターネット接続）！](https://www.kentik.com/blog/ending-saint-helenas-exile-from-the-internet/) |
