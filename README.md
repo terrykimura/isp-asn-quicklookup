@@ -18,8 +18,8 @@ Submissions welcome.  I guess submit a pull request with your additions to the f
 ## 公開 IP アドレスと ASN を調べる方法
 How to identify your public IP address and ASN
 
-- ブラウザにて https://www.whatismyip.com/ にアクセス（IPv4 IPv6 双方表示）
-- curl などで ipinfo.io API を使用（IPv4 のみ）：
+- ブラウザにて [https://www.whatismyip.com/](https://www.whatismyip.com/) にアクセス（IPv4 IPv6 双方表示） Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) in a web browser.  Shows both IPv4 and IPv6 addresses (if dual stack)
+- curl などで ipinfo.io API を使用（IPv4 のみ） Use the free ipinfo.io API (IPv4 only) with e.g. curl：
   ```
   $ curl ipinfo.io
   {
@@ -35,6 +35,19 @@ How to identify your public IP address and ASN
     "readme": "https://ipinfo.io/missingauth"
   }$
   ```
+- curl などで ipify.org を使用 Use ipify.org with e.g. curl:
+  - IPv4:
+    ```
+    terry@os3-354-10066:~$ curl api.ipify.org
+    133.167.32.70
+    terry@os3-354-10066:~$
+    ```
+  - IPv6:
+    ```
+    terry@os3-354-10066:~$ curl api6.ipify.org
+    2403:3a00:202:1901:133:167:32:70
+    terry@os3-354-10066:~$
+    ```
 
 
 ## 表
