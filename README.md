@@ -82,3 +82,4 @@ How to identify your public IP address and ASN
 | 日本通信 (MVNO) | AS55387 Japan Communication Inc. | 27.253.251.194 | 日本国内 MVNO 第一号 |
 | セントヘレナ島のクライアント IP | AS210841 Sure South Atlantic Limited | 91.232.198.117 | [祝海底ケーブル開通（＆脱衛星インターネット接続）！](https://www.kentik.com/blog/ending-saint-helenas-exile-from-the-internet/) |
 | Google One VPN | AS36492 Google | 162.120.162.88<br>2606:40:9596:19c::1060:3af | 札幌市内にて。[Google Geofeed](https://www.gstatic.com/g1vpn/geofeed) によると、札幌市内の IPv4 は8つのみ？ |
+| 厚木伊勢原ケーブルネットワーク（株）| AS10010 Tokai Communications | 110.172.56.0/21 | |
