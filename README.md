@@ -53,7 +53,8 @@ How to identify your public IP address and ASN
 ## 表
 | ISP | ASN | Sample IP 例 | Notes |
 | --- | --- | --- | --- |
-| [enひかり](https://enhikari.jp/) on NTT 光コラボ | AS2516 KDDI | 14.9.141.160 | NTT の光回線を使う NTT 光コラボなのに KDDI |
+| [enひかり](https://enhikari.jp/) & [V6プラス](https://enhikari.jp/v6plus.html) | AS2516 KDDI | 14.9.141.160<br>240b:11:5560:2c00:1569:185a:3c63:a21c | NTT の光回線を使う NTT 光コラボなのに KDDI |
+| [enひかり](https://enhikari.jp/) & [Xpass](https://enhikari.jp/xpass.html) | AS2519 Arteria | 133.32.129.173<br>2001:f73:8da0:4f00:c40:dbd4:67fa:c8f4 | Arteria IP が使える唯一の契約期間なしのISP(多分) |
 | ドコモ光 GMOとくとくBB | AS2516 KDDI | 106.73.5.64 | 「ドコモ」光なのに KDDI |
 | UQ Wimax + 5G | AS2516 KDDI | 106.155.1.25 | KDDI は UQ の親会社 |
 | Nuro 光 | AS2527 Sony Network Communications Inc. | 218.41.142.141 | |
