@@ -19,36 +19,35 @@ Submissions welcome.  I guess submit a pull request with your additions to the f
 How to identify your public IP address and ASN
 
 - ブラウザにて [https://www.whatismyip.com/](https://www.whatismyip.com/) にアクセス（IPv4 IPv6 双方表示） Go to [https://www.whatismyip.com/](https://www.whatismyip.com/) in a web browser.  Shows both IPv4 and IPv6 addresses (if dual stack)
-- curl などで ipinfo.io API を使用（IPv4 のみ） Use the free ipinfo.io API (IPv4 only) with e.g. curl：
+- curl などで ipinfo.io API を使用 Use the free ipinfo.io API with e.g. curl：
   ```
   $ curl ipinfo.io
   {
-    "ip": "218.41.142.141",
-    "hostname": "fpda298e8d.ap.nuro.jp",
-    "city": "Iwaki",
-    "region": "Fukushima",
+    "ip": "133.32.129.173",
+    "hostname": "133-32-129-173.east.xps.vectant.ne.jp",
+    "city": "Tokyo",
+    "region": "Tokyo",
     "country": "JP",
-    "loc": "36.9450,140.8873",
-    "org": "AS2527 Sony Network Communications Inc.",
-    "postal": "971-8102",
+    "loc": "35.6895,139.6917",
+    "org": "AS2519 ARTERIA Networks Corporation",
+    "postal": "101-8656",
     "timezone": "Asia/Tokyo",
     "readme": "https://ipinfo.io/missingauth"
-  }$
+  }$ 
+  $ 
+  $ curl 6.ipinfo.io
+  {
+    "ip": "2001:f73:8da0:4f00:f99e:a94:95bb:e316",
+    "city": "Tokyo",
+    "region": "Tokyo",
+    "country": "JP",
+    "loc": "35.6895,139.6917",
+    "org": "AS2519 ARTERIA Networks Corporation",
+    "postal": "101-8656",
+    "timezone": "Asia/Tokyo",
+    "readme": "https://ipinfo.io/missingauth"
+  }$ 
   ```
-- curl などで ipify.org を使用 Use ipify.org with e.g. curl:
-  - IPv4:
-    ```
-    terry@os3-354-10066:~$ curl api.ipify.org
-    133.167.32.70
-    terry@os3-354-10066:~$
-    ```
-  - IPv6:
-    ```
-    terry@os3-354-10066:~$ curl api6.ipify.org
-    2403:3a00:202:1901:133:167:32:70
-    terry@os3-354-10066:~$
-    ```
-
 
 ## 表
 | ISP | ASN | Sample IP 例 | Notes |
