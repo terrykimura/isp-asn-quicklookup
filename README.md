@@ -84,3 +84,4 @@ How to identify your public IP address and ASN
 | Google One VPN | AS36492 Google | 162.120.162.88<br>2606:40:9596:19c::1060:3af | 札幌市内にて。[Google Geofeed](https://www.gstatic.com/g1vpn/geofeed) によると、札幌市内の IPv4 は8つのみ？ |
 | 厚木伊勢原ケーブルネットワーク（株）| AS10010 Tokai Communications | 110.172.56.0/21 | |
 | Coco's 公衆無線LAN（SSID「COCOS_free_Wi-Fi」）| AS131160 Wire and Wireless | 103.5.140.143 (No IPv6) | |
+| 札幌国際スキー場公衆 Wi-Fi 「KOKUSAI Free」 | AS7682 HOKKAIDO TELECOMMUNICATIONS NETWORK | 210.229.180.82 (No IPv6) | |
