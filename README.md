@@ -85,3 +85,4 @@ How to identify your public IP address and ASN
 | 厚木伊勢原ケーブルネットワーク（株）| AS10010 Tokai Communications | 110.172.56.0/21 | |
 | Coco's 公衆無線LAN（SSID「COCOS_free_Wi-Fi」）| AS131160 Wire and Wireless | 103.5.140.143 (No IPv6) | |
 | 札幌国際スキー場公衆 Wi-Fi 「KOKUSAI Free」 | AS7682 HOKKAIDO TELECOMMUNICATIONS NETWORK | 210.229.180.82 (No IPv6) | |
+| コープさっぽろ Coop_Free_Wi-Fi | AS4713 OCN | 221.188.15.126 (No IPv6) | |
