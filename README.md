@@ -87,3 +87,4 @@ How to identify your public IP address and ASN
 | 札幌国際スキー場公衆 Wi-Fi 「KOKUSAI Free」 | AS7682 HOKKAIDO TELECOMMUNICATIONS NETWORK | 210.229.180.82 (No IPv6) | |
 | コープさっぽろ Coop_Free_Wi-Fi | AS4713 OCN | 221.188.15.126 (No IPv6) | |
 | Starbucks 公衆無線LAN at_STARBUCKS_WI2 | AS131160 Wire and Wireless | 103.5.140.140 (No IPv6) | |
+| mineo (MVNO) | AS17511 Optage | 58.70.183.80 (no IPv6) | |
