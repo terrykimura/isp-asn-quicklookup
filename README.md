@@ -56,8 +56,9 @@ How to identify your public IP address and ASN
 | [enひかり](https://enhikari.jp/) & [Xpass](https://enhikari.jp/xpass.html) | AS2519 Arteria | 133.32.129.173<br>2001:f73:8da0:4f00:c40:dbd4:67fa:c8f4 | Arteria IP が使える唯一の契約期間なしのISP(多分) |
 | ドコモ光 GMOとくとくBB | AS2516 KDDI | 106.73.5.64 | 「ドコモ」光なのに KDDI |
 | UQ Wimax + 5G | AS2516 KDDI | 106.155.1.25 | KDDI は UQ の親会社 |
-| Nuro 光 | AS2527 Sony Network Communications Inc. | 218.41.142.141 | |
+| Nuro 光 | AS2527 Sony Network Communications Inc. | 218.41.142.141<br>240d:f:205:af00:4c24:9d37:88aa:2250 | |
 | Nuro Mobile (MVNO) | AS2527 Sony Network Communications Inc. | 118.241.250.73 | | 
+| So-Net & V6プラス | AS2516 KDDI | 14.9.217.103<br>240b:13:d967:4000:39e0:7f5a:33b2:8f16 | ソニーネットワークコミュニケーションズなのに AS2527 じゃない！ | 
 | WAKWAK | AS9595 NTT-ME Corporation | 222.224.194.212 | AS4713 NTT Communications Corporation（通称 OCN）とは別！ |
 | 楽天ひかり | AS2519 ARTERIA Networks Corporation | 2001:f75:2320:700:cd32:3552:2055:537a | 名称に「Rakuten」がある ASN ではない。「クロスパス」がなんとかかんとか |
 | 楽天モバイル（MNO） | AS138384 Rakuten Mobile Network, Inc | 133.106.35.20<br>240b:c010:423:e8c7:c7e3:e604:ad42:9299 | |
